@@ -18,6 +18,8 @@ int main()
     std::cout << " *   *\n";
     std::cout << std::endl;
     std::cout << "******************************\n";
+    std::cout << "******************************\n";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
