@@ -5,9 +5,19 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "Hello !\n";
-
+    std::cout << "******************************\n";
+    std::cout << "My name: Rakan\n";
+    std::cout << "Age: 43\n";
+    std::cout << "Computer Engineer\n";
+    std::cout << std::endl;
+    std::cout << "******************************\n";
+    std::cout << " *****\n";
+    std::cout << " *   *\n";
+    std::cout << " *****\n";
+    std::cout << " *  *\n";
+    std::cout << " *   *\n";
+    std::cout << std::endl;
+    std::cout << "******************************\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
