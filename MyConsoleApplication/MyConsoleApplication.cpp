@@ -16,6 +16,12 @@ int main()
     cout << " *****\n";
     cout << " *  *\n";
     cout << " *   *\n";
+    cout << " *M1\M2*\n";
+    cout << " *M1\tM2*\n";
+    cout << " *M1\\M2*\n";
+
+    cout << " My name is \"R\"\n";
+
     cout << endl;
     cout << "******************************\n";
     return 0;
