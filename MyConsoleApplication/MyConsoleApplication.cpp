@@ -24,6 +24,18 @@ int main()
 
     cout << endl;
     cout << "******************************\n";
+
+    char MyChar;
+    int MyNumber;
+
+    cout << "Please enter a char!" << endl;
+    cin >> MyChar;
+    cout << "Please enter a charnumber!" << endl;
+    cin >> MyNumber;
+
+    cout << "You entered a char:" << MyChar << " and number: " << MyNumber;
+
+
     return 0;
 }
 
