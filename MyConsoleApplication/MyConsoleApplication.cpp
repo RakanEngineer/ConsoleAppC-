@@ -2,24 +2,23 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "******************************\n";
-    std::cout << "My name: Rakan\n";
-    std::cout << "Age: 43\n";
-    std::cout << "Computer Engineer\n";
-    std::cout << std::endl;
-    std::cout << "******************************\n";
-    std::cout << " *****\n";
-    std::cout << " *   *\n";
-    std::cout << " *****\n";
-    std::cout << " *  *\n";
-    std::cout << " *   *\n";
-    std::cout << std::endl;
-    std::cout << "******************************\n";
-    std::cout << "******************************\n";
-
+    cout << "******************************\n";
+    cout << "My name: Rakan\n";
+    cout << "Age: 43\n";
+    cout << "Computer Engineer\n" << endl;
+    cout << "******************************\n";
+    cout << " *****\n";
+    cout << " *   *\n";
+    cout << " *****\n";
+    cout << " *  *\n";
+    cout << " *   *\n";
+    cout << endl;
+    cout << "******************************\n";
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
